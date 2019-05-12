@@ -1,3 +1,4 @@
+![Image of a React New York Times App](https://github.com/astewart27/react-nytimes/blob/master/src/images/nytimes-app.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
